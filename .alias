@@ -1,5 +1,5 @@
 alias note="vim /home/ocrisostomo/dev/notes.txt"
 alias dotfile="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
-alias backup="dotfile push -u origin master && cp -r ~/.dotfiles/ home/ocrisostomo/Desktop/test "
+alias backup="dotfile push -u origin master && cp -r ~/.dotfiles/ /home/ocrisostomo/Desktop/test"
 alias gdot="cd .dotfiles && dotfile status"
 
