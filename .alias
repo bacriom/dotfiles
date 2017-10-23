@@ -1,0 +1,2 @@
+alias note="vim /home/ocrisostomo/dev/notes.txt"
+alias dotfile="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
